@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Splash screen background-->
     <item android:drawable="@drawable/splash_background" />
+
+    <!-- Splash screen logo (Also make it center) -->
     <item>
         <bitmap android:src="@drawable/ic_splah"
             android:gravity="center"/>
     </item>
+
 </layer-list>

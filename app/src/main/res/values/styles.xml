@@ -8,9 +8,9 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
-    <!--Lancher screen theme -->
+    <!--Splash screen theme -->
     <style name="AppTheme.Launcher">
-        <item name="android:windowBackground">@drawable/lancher_with_icon</item>
+        <item name="android:windowBackground">@drawable/lancher_with_bg_and_icon</item>
         <item name="android:windowNoTitle">true</item>
         <item name="android:windowActionBar">false</item>
         <item name="android:windowFullscreen">true</item>
