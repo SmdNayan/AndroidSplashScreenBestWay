@@ -1,6 +1,8 @@
 # Android Splash Screen Best Case
 When our app is lanch we always try to add a splash (Lancher) Screen. But If we add a normal splash screen like using using Activity and a layout file 
 it's always give a boring black/with screen before lanch splash screen. But I try to solve this problem using best case to make a splash screen.
+After complete full implementation. The result is: 
+![alt Result](../data/example.gif.png?raw=true)
 
 ## Implementation
 In here we implement an splash screen that don't show any black/white screen before launch. Also, we don't need any extra `Splash Screen Activity` and `Layout` file.
